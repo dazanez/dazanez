@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Diego Sánchez
 
-Soy desarrollador web, especialmente de Backend, con conocimiento en HTML, CSS, JavaScript (Vanilla-Node) y Python. He utilizado tecnologías como GraphQL, Django y Express, conectando con bases de datos relacionales y no relacionales para la creación de REST APIs, siguiendo buenas prácticas de diseño y desarrollo.
+Soy desarrollador web, principalmente de Backend, con conocimiento en Python, JavaSript (Vanilla y Node), HTML y CSS. He utilizado tecnologías como GraphQL y Django, conectando con bases de datos relacionales y no relacionales para la creación de REST APIs, siguiendo buenas prácticas de diseño y desarrollo.
 
 ## Proyectos en los que he colaborado
 
